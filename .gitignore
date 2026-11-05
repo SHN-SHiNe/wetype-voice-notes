@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+_plain/
+.wetype-export-state.json
+*.log
